@@ -3,3 +3,7 @@ My name is Mikayla Mancini and I am a senior in SEAS studying computer science o
 I like working primarily in python but also know Java, C, SQL, Javascript, and HTML/CSS pretty well.
 
 Beyond school and work I enjoy spending time with my family and friends. I love dogs and animals and also play golf and tennis. Lastly, I like watching sports with my favorite teams being the NY Giatnts, Boston Red Sox, Boston Celtics, and NY Rangers. 
+
+### :fire: My Stats :
+https://github-readme-streak-stats.herokuapp.com/?user=mikaylamancini1
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mikaylamancini1&theme=dark&background=000000)](https://git.io/streak-stats)
